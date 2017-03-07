@@ -1,0 +1,86 @@
+header
+{
+
+ text-align: center;
+ background-color: maroon;
+ padding-bottom: 1em;
+
+}
+
+
+
+h3, h1
+{
+	color: white;
+}
+
+
+
+
+aside
+{
+
+ display: inline-block;
+ vertical-align: top;
+ background-color: turquoise;
+ margin-top: 2em;
+ width: 30%;
+ height: 40em;
+
+}
+
+
+
+
+section
+{
+
+ background-color: orange;
+ height: 40em;
+ padding-left: 5em;
+ display: inline-block;
+ margin-top: 2em;
+ width: 63%;
+
+}
+
+
+
+
+
+.white
+{
+
+ font-size: 160%;
+ color: white;
+ font-style: italic;
+ text-decoration: underline;
+
+}
+
+
+
+
+ul
+{
+	color:purple;
+}
+
+
+
+
+div
+{
+
+ text-align: left;
+ margin-left: 8em;
+ height: 8em;
+
+}
+
+
+
+p
+{
+	color:blue;
+}
